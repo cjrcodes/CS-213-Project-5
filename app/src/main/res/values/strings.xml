@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Museum Tickets</string>
+    <string name="main_title">NJ Museum Tickets</string>
+    <string name="njsm">New Jersey State Museum</string>
+    <string name="tnmoa">The Newark Museum of Art</string>
+    <string name="mam">Montclair Art Museum</string>
+    <string name="mm">Morris Museum</string>
+    <string name="njsmadult">Adult $25</string>
+    <string name="njsmsenior">Senior $18</string>
+    <string name="njsmstudent">Student $16</string>
+    <string name="mamadult">Adult $23</string>
+    <string name="mamsenior">Senior $16</string>
+    <string name="mamstudent">Student $14</string>
+    <string name="nmoaadult">Adult $21</string>
+    <string name="nmoasenior">Senior $14</string>
+    <string name="nmoastudent">Student $12</string>
+    <string name="mmadult">Adult $19</string>
+    <string name="mmsenior">Senior $12</string>
+    <string name="mmstudent">Student $10</string>
+    <string name="calculatebutton">Calculate Ticket Price</string>
+    <string name="ticketprice">Ticket Price</string>
+    <string name="salestax">Sales Tax</string>
+    <string name="tickettotal">Ticket Total</string>
+
+
+
+    <string-array name="ticket_amount">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+
+</resources>
